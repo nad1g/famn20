@@ -26,7 +26,7 @@ mysystem.segmenter = 'im2segment'; % What is the name of your segmentation-algor
 datadir = '../datasets/short1';     % Which folder of examples are you going to test it on
 
 %% Benchmark and visualize
-mode = 1; % debug mode with the most plots
+mode = 2; % debug mode with the most plots
 [alljs,alljfg]=benchmark_inl1(mysystem,datadir,mode);
 
 %%
