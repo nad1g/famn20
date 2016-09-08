@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.30)  7 SEP 2016 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.30)  8 SEP 2016 21:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -609,25 +609,79 @@ Package caption Info: End \AtBeginDocument code.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./assignment_1.aux) ) 
+Overfull \hbox (24.39528pt too wide) in paragraph at lines 129--129
+[]    \OT1/cmtt/m/n/10.95 segment_end = segment_start + find(row_sum(segment_st
+art:end) < 1,1) - 1;[] 
+ []
+
+
+Overfull \hbox (1.40053pt too wide) in paragraph at lines 134--134
+[]    \OT1/cmtt/m/n/10.95 segment_start = segment_end + find(row_sum(segment_en
+d:end)>0,1) - 1;[] 
+ []
+
+[2] <zafbd.png, id=20, 562.1pt x 421.575pt>
+File: zafbd.png Graphic file (type png)
+ <use zafbd.png>
+Package pdftex.def Info: zafbd.png used on input line 167.
+(pdftex.def)             Requested size: 184.93607pt x 42.67458pt.
+
+<z.png, id=21, 562.1pt x 421.575pt>
+File: z.png Graphic file (type png)
+ <use z.png>
+Package pdftex.def Info: z.png used on input line 170.
+(pdftex.def)             Requested size: 184.93607pt x 42.67458pt.
+
+<a.png, id=22, 562.1pt x 421.575pt>
+File: a.png Graphic file (type png)
+ <use a.png>
+Package pdftex.def Info: a.png used on input line 174.
+(pdftex.def)             Requested size: 184.93607pt x 42.67458pt.
+
+<f.png, id=23, 562.1pt x 421.575pt>
+File: f.png Graphic file (type png)
+ <use f.png>
+Package pdftex.def Info: f.png used on input line 177.
+(pdftex.def)             Requested size: 184.93607pt x 42.67458pt.
+
+<b.png, id=24, 562.1pt x 421.575pt>
+File: b.png Graphic file (type png)
+ <use b.png>
+Package pdftex.def Info: b.png used on input line 181.
+(pdftex.def)             Requested size: 184.93607pt x 42.67458pt.
+
+<d.png, id=25, 562.1pt x 421.575pt>
+File: d.png Graphic file (type png)
+ <use d.png>
+Package pdftex.def Info: d.png used on input line 184.
+(pdftex.def)             Requested size: 184.93607pt x 42.67458pt.
+ [3 <./zafbd.png (PNG copy)> <./z.png (PNG copy)> <./a.png (PNG copy)> <./f.png
+ (PNG copy)> <./b.png (PNG copy)> <./d.png (PNG copy)>] (./assignment_1.aux) ) 
 Here is how much of TeX's memory you used:
- 4751 strings out of 493089
- 69710 string characters out of 6134842
- 145575 words of memory out of 5000000
- 8164 multiletter control sequences out of 15000+600000
- 9023 words of font info for 33 fonts, out of 8000000 for 9000
+ 4796 strings out of 493089
+ 70232 string characters out of 6134842
+ 147575 words of memory out of 5000000
+ 8201 multiletter control sequences out of 15000+600000
+ 11070 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,10n,43p,238b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmtt10.pfb>
-Output written on assignment_1.pdf (2 pages, 60999 bytes).
+ 44i,10n,47p,238b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+<
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on assignment_1.pdf (3 pages, 167715 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
